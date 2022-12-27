@@ -1,0 +1,23 @@
+https://github.com/kliakos/sparkjava-war-example.git
+VINAY P11:12 AM
+1  clear
+    2  sudo apt install default-jre
+    3  clear
+    4  java --version
+    5  cd .ssh
+    6  ls
+    7  vi authorized_keys
+    8  cat authorized_keys
+    9  clear
+   10  cd
+   11  history
+
+ssh-keygen
+   18  ls
+   19  cd .ssh
+   20  ls
+   21  clear
+   22  sudo cat id_rsa.pub
+
+
+https://linuxhint.com/install-configure-jenkins-ubuntu/
